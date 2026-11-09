@@ -1,5 +1,7 @@
 # JSON formatter (Node.js)
 
+**Project URL:** https://roadmap.sh/projects/nodejs-json-formatter
+
 Solution for the [Node.js JSON formatter project](https://roadmap.sh/projects/nodejs-json-formatter) on [roadmap.sh](https://roadmap.sh/).
 
 CLI that reads a JSON file from disk and prints pretty-printed JSON to stdout, with clear errors on stderr when the path is missing, the file cannot be read, or the content is invalid JSON.
